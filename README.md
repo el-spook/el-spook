@@ -10,7 +10,7 @@ After investigating website-building at various points in the past, I committed 
 
 ### Current Learning
 
-I'm currently building on these foundations in HTML, CSS and JavaScript on the HyperionDev web development bootcamp, which is funded by the Department for Education. I'm almost 80% of the way through, and I can clearly see the difference in my JavaScript skills. I'm now much more confident in DOM manipulation, APIs, using JSON, and async programming. I'm looking forward to learning Node and React in the remainder of the course.
+I'm currently building on these foundations in HTML, CSS and JavaScript on the HyperionDev web development bootcamp, which is funded by the Department for Education. I'm almost 80% of the way through, and I can clearly see the difference in my JavaScript skills. I'm now much more confident in DOM manipulation, APIs, using JSON, and async programming. I'm looking forward to learning Node and React in the remainder of the course. Here's one of my recent projects, [a website about the world's most dangerous mountains](https://github.com/el-spook/finalCapstone).
 
 ### What's Next
 
